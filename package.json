@@ -2,7 +2,8 @@
   "name": "spotify-api",
   "version": "1.0.0",
   "dependencies": {
-    "request": "^2.88.1"
+    "request": "^2.88.1",
+    "spotify-web-api-node": "^5.0.2"
   },
   "scripts": {
     "start": "node index.js"
